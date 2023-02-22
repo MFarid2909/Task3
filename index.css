@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.frame {
+    margin: auto;
+    margin-top: 150px;
+    align-items: center;
+    width: 259px;
+    height: 363px;
+    border: none;
+    border-radius: 5px;
+    background-image: url("./leave.jpg");
+    
+    
+}
+
+.login {
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-top: 30px;
+}
+.email {
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 180px;
+    height: 31px;
+    border-radius: 5px;
+    
+}
+
+.password {
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 180px;
+    height: 31px;
+    border-radius: 5px;
+}
+
+.btn1 {
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.btn2 {
+    width: 180px;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 10px; 
+    border: none;
+    border-radius: 5px;
+    background-color: #3578DE;
+}
+
+.text1 {
+    color: white;
+    margin-left:100px;
+    margin-top: -27px;
+}
+
+.forgot {
+    display: flex;
+    justify-content: center;
+    margin-top: -110px;
+}
+
+.line1 {
+    height: 1px;
+    width: 72px;
+    border-bottom:3px solid;
+    border-color: #DBD6D680;
+    margin-left: 240px;
+}
+
+.line2 {
+    height: 0px;
+    width: 72px;
+    border-bottom:3px solid;
+    border-color: #DBD6D680;
+    margin-left: 380px;
+    position: relative;
+}
+
